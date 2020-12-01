@@ -1,0 +1,342 @@
+.fakeimg {
+    height: 200px;
+    background: rgb(109, 108, 96);
+}
+
+body {
+    background-color: rgb(246, 246, 246);
+    width: 100%;
+    height: 400px;
+    /* background-image: url('./img/backgroup5.jpg'); */
+    background-image: url('http://qklk6euw4.hb-bkt.clouddn.com/blog_denglu_1130_img_backgroup5.jpg');
+    background-size: cover;
+    /* border: 1px solid red;
+    /* width: 100%;
+    height: 400px;
+    background-image: url('./img/backgroup.png');
+    background-repeat: no-repeat;
+    background-size: contain; */
+    /* background-image: url('./img/backgroup3.jpg');
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat; */
+    font-family: 'Microsoft YaHei', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+#div0 {
+    /* width: 100%;
+    height: 400px;
+    background-image: url('./img/backgroup.png');
+    background-size: 100% 100%; */
+    /* border: 1px solid red; */
+    /* margin-bottom: 20px; */
+}
+
+#div1 {
+    /* margin-top: 20px; */
+    /* background: rgba(223, 232, 239, 0.767); */
+}
+
+#div1_logo {
+    /* margin-right: 0px; */
+}
+
+#div1_img1 {
+    margin-top: 20px;
+    /* margin-bottom: 5px; */
+    margin-left: 10px;
+
+    /* padding-right: 0px; */
+    /* background: rgba(223, 232, 239, 0.767); */
+}
+
+#div1_text {
+    margin-top: 23px;
+    /* padding-bottom: 0px; */
+    /* margin-left: -60px; */
+}
+
+#div1 {
+    /* background: #aaa; */
+    /* -webkit-filter: blur(5px); 
+    filter: blur(5px); */
+}
+
+#_div1_text {
+    margin-bottom: 0px;
+}
+
+#_div1_TextColor {
+    color: #f8fefe;
+}
+
+#_div1_text_top {
+    margin-bottom: 0px;
+}
+
+#div2_nav {
+    /* margin-top: 10px; */
+    margin-bottom: 10px;
+    margin-left: -15px;
+    margin-right: -15px;
+
+    background: rgba(223, 232, 239, 0.767);
+    /* font-style: ; */
+}
+
+#div2_nav_dropdown-menu {
+    background: rgba(223, 232, 239, 0.767);
+}
+
+#_div2_navbar_search {
+    /* margin-left: 200px; */
+    background: rgba(250, 250, 250, 0.767);
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    /* width: 800px; */
+    /* height: 250px; */
+    /* background-color: lightgrey; */
+
+    margin: auto;
+}
+
+.flex-item {
+    /* background-color: cornflowerblue; */
+    /* width: 75px;
+height: 75px; */
+    margin: auto;
+}
+
+/* .carousel-inner img {
+    width: 100%;
+    height: 100%;
+} */
+#div3_left_all_top {
+    /* margin-bottom: 20px; */
+}
+
+#div3_left_Carousel {
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+#div3_left {
+    height: 2600px;
+    background: rgba(223, 232, 239, 0.767);
+    margin-bottom: 10px;
+}
+
+#div3_left_all_under_first {
+     margin-top: 50px;
+}
+
+#div3_left_all_under_second {
+    margin-top: 200px;
+}
+
+#section1 {
+    margin-top: 60px;
+}
+
+#section2 {
+    margin-top: 60px;
+}
+
+#section3 {
+    margin-top: 60px;
+}
+
+#section41 {
+    margin-top: 60px;
+}
+
+#section42 {
+    margin-top: 60px;
+}
+
+body {
+    position: relative;
+}
+
+ul.nav-pills {
+    top: 20px;
+    position: fixed;
+}
+
+div.col-8 div {
+    height: 500px;
+}
+
+#div3_right {
+    height: 2500px;
+    /* background: rgba(31, 116, 212, 0.404); */
+
+    /* padding-left: 40px; */
+    /* padding-right: 0px; */
+}
+
+#div3_right_News {
+/*     height: 370px; */
+    background: rgba(223, 232, 239, 0.767);
+    margin-bottom: 20px;
+    /* margin-top: 20px; */
+    /* padding-right: -15px; */
+     padding-bottom: 10px;
+}
+
+#_div3_Scrollspy {
+    background: rgba(223, 232, 239, 0.767);
+}
+
+#div3_right_News_second {
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#div3_right_News_third {
+    /* padding-top: 10px; */
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* background:  rgba(45, 14, 170, 0.836); */
+}
+
+#div3_right_News_four {
+    /* padding-top: 10px; */
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* background:  rgba(45, 14, 170, 0.836); */
+}
+
+#div3_right_News_four_button {
+    background: rgba(0, 161, 214);
+    /* text-decoration-color: #fff; */
+    
+     width :100%;
+}
+
+h_white {
+    color: #fff;
+}
+
+h_black {
+    color: black;
+}
+
+#div3_right_Search {
+    height: 110px;
+    background: rgba(223, 232, 239, 0.767);
+    margin-bottom: 20px;
+    /* margin-right: -15px; */
+}
+
+#div3_right_Search_second {
+    /* margin-bottom: 5px; */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#q {
+    /* margin-left: 200px; */
+    background: rgba(250, 250, 250, 0.767);
+}
+
+#div3_right_ScoreRank {
+    height: 130px;
+    background: rgba(223, 232, 239, 0.767);
+    margin-bottom: 20px;
+    /* margin-right: -15px; */
+}
+
+#div3_right_NotesCategory {
+    height: 520px;
+    background: rgba(223, 232, 239, 0.767);
+    margin-bottom: 20px;
+    /* margin-right: -15px; */
+}
+
+#div3_right_ReadRankingList {
+    height: 190px;
+    background: rgba(223, 232, 239, 0.767);
+    margin-bottom: 20px;
+    /* margin-right: -15px; */
+}
+
+#div3_right_NavigationCatalog {
+    height: 130px;
+    background: rgba(223, 232, 239, 0.767);
+
+    margin-bottom: 20px;
+    /* margin-right: -15px; */
+}
+
+#div3_right_music {
+    height: 250px;
+    background: rgba(223, 232, 239, 0.767);
+    margin-bottom: 20px;
+    /* margin-right: -15px; */
+}
+
+#div4_footer {
+    background: rgba(223, 232, 239, 0.767);
+
+    /* margin-top: 30px; */
+}
+
+/* Custom Styles */
+ul.nav-tabs {
+    width: 140px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+}
+
+ul.nav-tabs li {
+    margin: 0;
+    border-top: 1px solid #ddd;
+}
+
+ul.nav-tabs li:first-child {
+    border-top: none;
+}
+
+ul.nav-tabs li a {
+    margin: 0;
+    padding: 8px 16px;
+    border-radius: 0;
+}
+
+ul.nav-tabs li.active a,
+ul.nav-tabs li.active a:hover {
+    color: #fff;
+    background: #0088cc;
+    border: 1px solid #0088cc;
+}
+
+ul.nav-tabs li:first-child a {
+    border-radius: 4px 4px 0 0;
+}
+
+ul.nav-tabs li:last-child a {
+    border-radius: 0 0 4px 4px;
+}
+
+ul.nav-tabs.affix {
+    top: 30px;
+    /* Set the top position of pinned element */
+}
+
+#div3_nav {
+    background: rgba(223, 232, 239, 0.767);
+}
